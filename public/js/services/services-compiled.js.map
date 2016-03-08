@@ -1,0 +1,1 @@
+{"version":3,"sources":["services.js"],"names":[],"mappings":"AAAA,IAAI,OAAJ,CAAY,aAAZ,EAA2B,CAAC,OAAD,EAAU,UAAS,KAAT,EAAe,EAAf,CAArC","file":"services-compiled.js","sourcesContent":["app.factory('dataService', ['$http', function($http){\n    'use strict';\n}]);"]}

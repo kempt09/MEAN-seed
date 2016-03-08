@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA,IAAI,MAAM,QAAQ,MAAR,CAAe,OAAf,EAAwB,CAAC,SAAD,CAAxB,CAAN","file":"app-compiled.js","sourcesContent":["var app = angular.module('myApp', ['ngRoute']);\n"]}
